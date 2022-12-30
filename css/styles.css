@@ -256,6 +256,10 @@ Sidebar
   transform: translate(-100%);
 }
 
+.show-sidebar {
+  transform: translate(0);
+}
+
 .sidebar-links {
   text-align: center;
 }
